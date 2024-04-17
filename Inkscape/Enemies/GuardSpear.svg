@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg858"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="GuardSpear.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview860"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4289282"
+     inkscape:cx="276.08106"
+     inkscape:cy="-80.129991"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs855" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#deaa87;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path846-6"
+       cx="52.208725"
+       cy="14.323923"
+       rx="1.2516855"
+       ry="1.2979759"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\Enemies\Guards\GuardSpear\Guard_Hand.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#999999;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="path846-6-3"
+       cx="115.54115"
+       cy="14.627806"
+       rx="1.2516855"
+       ry="1.2979759"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\Enemies\Guards\GuardSpearHeavy\HeavyGuard_Hand.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#552200;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 62.374127,12.629824 h 3.97698 l 0.34048,1.270686 c 0,0 1.94074,-0.283149 2.49086,0.349564 0.20045,0.230544 0,0.916506 0,0.916506 h -7.23384 z"
+       id="path1982-7"
+       sodipodi:nodetypes="cccsccc"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\Enemies\Guards\GuardSpear\Guard_Leg.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g6968"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\Enemies\Guards\GuardSpear\Guard_Head.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#deaa87;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path846"
+         cx="20.735418"
+         cy="14.240064"
+         rx="5.5772476"
+         ry="5.4383759"
+         inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\BlandMan\Head.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 26.200437,13.377962 C 27.194745,5.5759233 17.166204,6.322116 16.044119,8.7699285 c -1.296206,1.7374395 -1.73991,8.2042095 1.331133,9.6924705 3.931653,2.174695 3.730305,-9.1682777 8.825185,-5.084437 z"
+         id="path1232"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g6978"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\Weapons\Spear.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#502d16;stroke:#000000;stroke-width:0.336527;stroke-linecap:round"
+         id="rect882-4-0"
+         width="30.367022"
+         height="0.60862148"
+         x="28.35808"
+         y="-26.730961"
+         transform="rotate(90)" />
+      <path
+         style="fill:#b3b3b3;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+         d="m 25.043173,28.376091 h 2.823722 l -1.414901,-2.450683 z"
+         id="path5338"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g6974"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\Enemies\Guards\GuardSpear\Guard_Torso.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#999999;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 35.279007,11.176049 c 0.65282,-1.8149376 5.2185,-1.8432966 5.78632,0 1.01497,3.29488 1.01839,8.332298 1.01839,8.332298 h -8.00826 c 0,0 -0.0341,-4.891398 1.20355,-8.332298 z"
+         id="path1356"
+         sodipodi:nodetypes="ssccs"
+         inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\BlandMan\Torso.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 35.007208,12.058682 c 2.029068,-2.021351 4.243297,-2.0907912 6.272365,-0.06944"
+         id="path5759"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 34.729466,13.102143 c 2.029068,-2.02135 4.764066,-2.021355 6.793134,0"
+         id="path5759-0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 34.075457,19.508347 c 2.029068,-2.02135 5.979192,-2.021355 8.00826,0"
+         id="path5759-0-1"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g15185"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\Enemies\Guards\GuardSpearHeavy\HeavyGuard_Head.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#deaa87;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path846-5"
+         cx="84.751167"
+         cy="13.637064"
+         rx="5.5772476"
+         ry="5.4383759"
+         inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\BlandMan\Head.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 90.216188,12.774963 C 91.210496,4.972924 81.181955,5.7191167 80.05987,8.1669292 78.763664,9.9043687 78.31996,16.371139 81.391003,17.8594 c 3.931653,2.174695 8.266776,-7.640691 8.825185,-5.084437 z"
+         id="path1232-8"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 88.332047,19.288982 c 1.561559,-0.886732 1.845281,-1.385633 1.736246,-3.482108 -4.00619,4.065534 -11.17036,-1.988613 -10.097716,1.251088 1.180035,4.335287 6.69034,2.524384 8.36147,2.23102 z"
+         id="path1232-8-4"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g15192"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\Enemies\Guards\GuardSpearHeavy\HeavyGuard_Torso.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g6974-8"
+         inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\Enemies\Guards\GuardSpear\Guard_Torso.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         transform="matrix(1.3930091,0,0,1,51.873859,-0.741871)">
+        <path
+           style="fill:#999999;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 35.279007,11.176049 c 0.65282,-1.8149376 5.2185,-1.8432966 5.78632,0 1.01497,3.29488 1.01839,8.332298 1.01839,8.332298 h -8.00826 c 0,0 -0.0341,-4.891398 1.20355,-8.332298 z"
+           id="path1356-4"
+           sodipodi:nodetypes="ssccs"
+           inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\BlandMan\Torso.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 35.007208,12.058682 c 2.029068,-2.021351 4.243297,-2.0907912 6.272365,-0.06944"
+           id="path5759-5"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 34.729466,13.102143 c 2.029068,-2.02135 4.764066,-2.021355 6.793134,0"
+           id="path5759-0-0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 34.075457,19.508347 c 2.029068,-2.02135 5.979192,-2.021355 8.00826,0"
+           id="path5759-0-1-0"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+    <path
+       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 123.05386,12.341037 h 3.97698 l 0.34048,1.270686 c 0,0 1.94074,-0.283149 2.49086,0.349564 0.20045,0.230544 0,0.916506 0,0.916506 h -7.23384 z"
+       id="path1982-7-0"
+       sodipodi:nodetypes="cccsccc"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\Enemies\Guards\GuardSpearHeavy\HeavyGuard_Leg.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g15197"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\Weapons\Spear_Heavy.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g6978-7"
+         inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\Weapons\Spear.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         transform="translate(117.23051,-22.279374)">
+        <rect
+           style="fill:#502d16;stroke:#000000;stroke-width:0.472304;stroke-linecap:round"
+           id="rect882-4-0-0"
+           width="30.367022"
+           height="1.1988133"
+           x="28.35808"
+           y="-27.026056"
+           transform="rotate(90)" />
+        <path
+           style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.505654px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 24.368299,31.981728 h 4.173347 l -2.091166,-6.05632 z"
+           id="path5338-2"
+           sodipodi:nodetypes="cccc" />
+      </g>
+    </g>
+  </g>
+</svg>

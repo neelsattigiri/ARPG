@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg941"
+   sodipodi:docname="Obstacles.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview943"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4"
+     inkscape:cx="276.875"
+     inkscape:cy="142.375"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs938" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 58.302941,48.735493 c 0.652813,-1.814938 5.218499,-1.843297 5.786317,0 1.014971,3.294879 1.01839,8.332294 1.01839,8.332294 h -8.00826 c 0,0 -0.0341,-4.891395 1.203553,-8.332294 z"
+       id="path1356"
+       sodipodi:nodetypes="ssccs"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\BlandMan\Torso.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g2344"
+       transform="matrix(2.2543172,0,0,1.5583271,-91.5405,-25.389584)"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\Obstacles\Spiked_Steel.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 73.095593,49.315568 0.857123,-3.198831 0.811136,3.197721 z"
+         id="path1981"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 74.763852,49.314458 0.857123,-3.198831 0.811136,3.197721 z"
+         id="path1981-6"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 76.432111,49.313348 0.857123,-3.198831 0.811136,3.197721 z"
+         id="path1981-6-2"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 78.10037,49.312238 0.857123,-3.198831 0.811136,3.197721 z"
+         id="path1981-6-2-4"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#4d4d4d;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 79.768629,49.311128 0.857123,-3.198831 0.811136,3.197721 z"
+         id="path1981-6-2-4-7"
+         sodipodi:nodetypes="cccc" />
+    </g>
+  </g>
+</svg>

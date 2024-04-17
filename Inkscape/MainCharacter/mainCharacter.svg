@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="mainCharacter.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="11.431425"
+     inkscape:cx="50.212461"
+     inkscape:cy="36.259695"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 23.510135,5.4643449 c 0.652813,-1.814938 5.218499,-1.843297 5.786317,0 1.014971,3.2948796 1.01839,8.3322941 1.01839,8.3322941 h -8.00826 c 0,0 -0.0341,-4.8913945 1.203553,-8.3322941 z"
+       id="path1356"
+       sodipodi:nodetypes="ssccs"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\BlandMan\Torso.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#deaa87;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path846-6"
+       cx="40.43985"
+       cy="8.612216"
+       rx="1.2516855"
+       ry="1.2979759"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\BlandMan\Hand.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#552200;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 50.605247,6.9181195 h 3.976979 l 0.34048,1.270686 c 0,0 1.940748,-0.283149 2.490867,0.349564 0.20045,0.230545 0,0.916506 0,0.916506 h -7.233847 z"
+       id="path1982-7"
+       sodipodi:nodetypes="cccsccc"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\BlandMan\Leg.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g6127"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\BlandMan\Head.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#deaa87;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path846"
+         cx="8.9665422"
+         cy="8.5283594"
+         rx="5.5772476"
+         ry="5.4383759"
+         inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\BlandMan\Head.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 10.274869,8.2961003 C 12.537664,8.5569527 13.12723,7.1249069 13.12723,7.1249069"
+         id="path6034" />
+    </g>
+    <g
+       id="g1395"
+       transform="translate(-0.06546469,3.2077696)"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\Weapons\Sword.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#b3b3b3;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 7.0467736,32.455966 6.3643886,19.506738 8.1593377,16.397795 9.9493555,19.498198 8.8509242,32.455966 H 7.0467736"
+         id="path1290" />
+      <rect
+         style="fill:#502d16;stroke:#000000;stroke-width:0.195849;stroke-linecap:round"
+         id="rect882-4"
+         width="3.469645"
+         height="1.8041506"
+         x="33.644249"
+         y="-8.9020748"
+         transform="rotate(90)" />
+      <rect
+         style="fill:#502d16;stroke:#000000;stroke-width:0.236747;stroke-linecap:round"
+         id="rect882"
+         width="5.7632527"
+         height="1.5871308"
+         x="5.1183734"
+         y="32.118374" />
+    </g>
+    <g
+       id="g2064"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\Platforms\Dirt1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#504416;stroke:none;stroke-width:0.25;stroke-linecap:round"
+         id="rect1433"
+         width="19.115686"
+         height="8.6413393"
+         x="24.156469"
+         y="26.709591" />
+      <path
+         style="fill:#a0892c;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 24.156469,26.709589 c 0,0 -0.130929,4.124274 5.695428,4.058814 3.046776,-0.03423 1.962086,-4.296108 7.893779,-1.83359 2.067318,0.858239 3.871225,-1.787987 5.52648,-2.225222"
+         id="path1566"
+         sodipodi:nodetypes="cssc" />
+    </g>
+  </g>
+</svg>
