@@ -387,15 +387,22 @@ public class PlayerMovement : MonoBehaviour
         // Attack when Fire1 key is pressed
         if (Input.GetButtonDown("Fire1"))
         {
+            // If S key is held
             if (Input.GetKey(KeyCode.S))
             {
-                // Animator input - attack animation
+                // Animator input - attack animation to attak down
                 playerTorso.SetTrigger("attack3");
+            }
+            // If W key is held
+            else if (Input.GetKey(KeyCode.W))
+            {
+                // Animator input - attack animation to attack up
+                playerTorso.SetTrigger("attack2");
             }
             else
             {
-                // Animator input - attack animation
-            playerTorso.SetTrigger("attack1");
+                // Animator input - attack animation to attack
+                playerTorso.SetTrigger("attack1");
             }
             
         }

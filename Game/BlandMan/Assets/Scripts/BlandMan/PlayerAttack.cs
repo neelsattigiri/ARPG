@@ -8,7 +8,8 @@ public class PlayerAttack : MonoBehaviour
     public Transform attackPoint;
     public Transform attackPoint_walled;
     public Transform attackPoint_down;
-    
+    public Transform attackPoint_up;
+
 
     public LayerMask enemyLayer;
     public LayerMask wallLayer;
@@ -16,6 +17,7 @@ public class PlayerAttack : MonoBehaviour
 
     public float attackRange = 0.5f;
     public float attackRangeDown = 0.5f;
+    public float attackRangeUp = 0.5f;
 
 
     // Start is called before the first frame update
@@ -60,6 +62,7 @@ public class PlayerAttack : MonoBehaviour
         }
     }
 
+    // Function to Attack while Walled
     public void Attack_Walled()
     {
         // Get all the colliders that hit the created circle and call Damage function on the collider object
@@ -71,6 +74,19 @@ public class PlayerAttack : MonoBehaviour
         }
     }
 
+    // Function to Attack Up
+    public void Attack_Up()
+    {
+        // Get all the colliders that hit the created circle and call Damage function on the collider object
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint_up.position, attackRangeUp, enemyLayer);
+
+        foreach (Collider2D enemy in hitEnemies)
+        {
+            enemy.GetComponent<EnemyStats>().Damage(2);
+        }
+    }
+
+    // Function to Attack Down
     public void Attack_Down()
     {
         // Get all the colliders that hit the created circle and call Damage function on the collider object
@@ -88,11 +104,13 @@ public class PlayerAttack : MonoBehaviour
         }
     }
 
+    // Funtion to start parrying frames
     public void Parry_Start()
     {
         player.GetComponent<PlayerStats>().parry = true;
     }
 
+    // Function to end parrying frames
     public void Parry_End()
     {
         player.GetComponent<PlayerStats>().parry = false;
@@ -106,6 +124,7 @@ public class PlayerAttack : MonoBehaviour
         Gizmos.color = Color.green;
         Gizmos.DrawWireSphere(attackPoint.position, attackRange);
         Gizmos.DrawWireSphere(attackPoint_down.position, attackRangeDown);
+        Gizmos.DrawWireSphere(attackPoint_up.position, attackRangeUp);
         Gizmos.DrawWireSphere(attackPoint_walled.position, attackRange);
 
 
