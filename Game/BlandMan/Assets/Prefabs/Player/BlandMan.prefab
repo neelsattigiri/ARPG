@@ -24,7 +24,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 449638529}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.11, y: -0.58, z: 0}
+  m_LocalPosition: {x: 0.236, y: -0.336, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1112494662368863449}
@@ -626,6 +626,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 0
   attackRange: 0.5
+  attackRangeDown: 0.61
 --- !u!1 &1112494662368863448
 GameObject:
   m_ObjectHideFlags: 0
@@ -989,6 +990,7 @@ MonoBehaviour:
   dashcooldown: 0.5
   dashspeed: 6
   dash_count: 1
+  current_jump_count: 0
   walljump: 0
   wallimpact: 0
   wallhang: 0
