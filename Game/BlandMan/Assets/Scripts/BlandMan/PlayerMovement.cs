@@ -30,7 +30,7 @@ public class PlayerMovement : MonoBehaviour
     // Private variables
     private float horizontal;
     private bool isFacingRight = true;
-    private int current_jump_count;
+    public int current_jump_count;
 
     private bool forcedMovement = false;
     private float forcedMovementDirectionX = 0;
@@ -153,7 +153,7 @@ public class PlayerMovement : MonoBehaviour
     }
 
     // Function to check if player is grounded
-    private bool IsGrounded()
+    public bool IsGrounded()
     {   
         // Check if player is grounded - use overlap circle to detect collision below the player
         bool grounded = Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);

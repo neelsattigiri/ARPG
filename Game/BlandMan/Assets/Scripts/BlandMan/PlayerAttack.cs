@@ -15,6 +15,8 @@ public class PlayerAttack : MonoBehaviour
     public LayerMask trapLayer;
 
     public float attackRange = 0.5f;
+    public float attackRangeDown = 0.5f;
+
 
     // Start is called before the first frame update
     void Start()
@@ -72,10 +74,10 @@ public class PlayerAttack : MonoBehaviour
     public void Attack_Down()
     {
         // Get all the colliders that hit the created circle and call Damage function on the collider object
-        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint_down.position, attackRange, enemyLayer);
-        Collider2D[] trap = Physics2D.OverlapCircleAll(attackPoint_down.position, attackRange, trapLayer);
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint_down.position, attackRangeDown, enemyLayer);
+        Collider2D[] trap = Physics2D.OverlapCircleAll(attackPoint_down.position, attackRangeDown, trapLayer);
 
-        if (trap.Length != 0 || hitEnemies.Length != 0)
+        if ((trap.Length != 0 || hitEnemies.Length != 0) && !player.GetComponent<PlayerMovement>().IsGrounded())
         {
             player.GetComponent<PlayerMovement>().ForcedMovement(0, 1.5f, 0.0625f);
         }
@@ -94,5 +96,18 @@ public class PlayerAttack : MonoBehaviour
     public void Parry_End()
     {
         player.GetComponent<PlayerStats>().parry = false;
+    }
+
+
+
+    void OnDrawGizmosSelected()
+    {
+        // Display the explosion radius when selected
+        Gizmos.color = Color.green;
+        Gizmos.DrawWireSphere(attackPoint.position, attackRange);
+        Gizmos.DrawWireSphere(attackPoint_down.position, attackRangeDown);
+        Gizmos.DrawWireSphere(attackPoint_walled.position, attackRange);
+
+
     }
 }
