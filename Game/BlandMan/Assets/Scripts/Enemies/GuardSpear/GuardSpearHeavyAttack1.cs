@@ -6,8 +6,10 @@ public class GuardSpearHeavyAttack1 : MonoBehaviour
 {
     // Public variables
     public Transform attackPoint;
+    public Transform attackPointUp;
     public LayerMask enemyLayer;
     public float attackRange = 1f;
+    public float attackRangeUp = 1f;
     public GuardSpearHeavyAI guardSpearHeavy;
     public int attackDmg = 1;
 
@@ -70,6 +72,41 @@ public class GuardSpearHeavyAttack1 : MonoBehaviour
 
         }
     }
+
+    // Function to trgger damage and knockback on attack Up
+    public void Attack2()
+    {
+        // Get a list of all colliders of a layer that have been hit
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPointUp.position, 2f, enemyLayer);
+
+        // Iterate through all the colliders hit
+        foreach (Collider2D enemy in hitEnemies)
+        {
+            // Call damage function on the collider object
+            enemy.GetComponent<PlayerStats>().Damage(2);
+
+            // Trigger knockback on enemy based on direction
+            if (guardSpearHeavy.isFacingRight)
+            {
+                enemy.GetComponent<PlayerMovement>().ForcedMovement(1, 1f, 0.0625f);
+            }
+            else if (!guardSpearHeavy.isFacingRight)
+            {
+                enemy.GetComponent<PlayerMovement>().ForcedMovement(-1, 1f, 0.0625f);
+            }
+
+        }
+    }
+
+    void OnDrawGizmosSelected()
+    {
+        // Display the explosion radius when selected
+        Gizmos.color = Color.green;
+        Gizmos.DrawWireSphere(attackPointUp.position, attackRangeUp);
+
+
+    }
+
 
     // Function to set Charge windup flag to true
     public void ChargeWindupEnable()

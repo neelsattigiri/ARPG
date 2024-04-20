@@ -300,8 +300,18 @@ public class GuardSpearHeavyAI : MonoBehaviour
         {
             ForceFlip();
         }
-        // Animator input for enemy Attack1
-        enemy_torso.SetTrigger("Attack1");
+
+        if (playerLock.transform.position.y > transform.position.y + 1f)
+        {
+            // Animator input for enemy Attack2
+            enemy_torso.SetTrigger("Attack2");
+        }
+        else
+        {
+            // Animator input for enemy Attack1
+            enemy_torso.SetTrigger("Attack1");
+        }
+
         // Enemy is in the process of attacking
         isAttacking = true;
     }

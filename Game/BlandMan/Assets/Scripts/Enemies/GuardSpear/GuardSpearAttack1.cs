@@ -70,7 +70,7 @@ public class GuardSpearAttack1 : MonoBehaviour
         }
     }
 
-    // Function to trgger damage and knockback on attack
+    // Function to trgger damage and knockback on attack Up
     public void Attack2()
     {
         // Get a list of all colliders of a layer that have been hit
