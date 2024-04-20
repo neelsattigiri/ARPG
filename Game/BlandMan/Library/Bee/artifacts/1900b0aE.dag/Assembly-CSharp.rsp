@@ -341,7 +341,6 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
-"Assets/OnTouch.cs"
 "Assets/Scripts/BlandMan/PlayerAttack.cs"
 "Assets/Scripts/BlandMan/PlayerMovement.cs"
 "Assets/Scripts/BlandMan/PlayerStats.cs"
@@ -350,6 +349,7 @@
 "Assets/Scripts/Enemies/GuardSpear/GuardSpearAttack1.cs"
 "Assets/Scripts/Enemies/GuardSpear/GuardSpearHeavyAI.cs"
 "Assets/Scripts/Enemies/GuardSpear/GuardSpearHeavyAttack1.cs"
+"Assets/Scripts/Traps/TouchDamage/OnTouch.cs"
 -langversion:8.0
 
 /deterministic
