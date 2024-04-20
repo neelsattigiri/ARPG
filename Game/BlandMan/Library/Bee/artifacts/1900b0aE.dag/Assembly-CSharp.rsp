@@ -344,6 +344,7 @@
 "Assets/Scripts/BlandMan/PlayerAttack.cs"
 "Assets/Scripts/BlandMan/PlayerMovement.cs"
 "Assets/Scripts/BlandMan/PlayerStats.cs"
+"Assets/Scripts/Enemies/EnemyBat/EnemyBatAI.cs"
 "Assets/Scripts/Enemies/GuardSpear/EnemyStats.cs"
 "Assets/Scripts/Enemies/GuardSpear/GuardSpearAI.cs"
 "Assets/Scripts/Enemies/GuardSpear/GuardSpearAttack1.cs"

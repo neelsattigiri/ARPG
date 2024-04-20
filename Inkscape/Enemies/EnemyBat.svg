@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg960"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="EnemyBat.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview962"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.0416192"
+     inkscape:cx="126.55819"
+     inkscape:cy="140.66145"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs957" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#442178;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 43.926804,17.740929 c 3.483071,-3.095476 7.271476,-3.861301 12.83108,-2.945911 l 8.183086,2.160335 c -5.519702,0.450706 -6.446553,0.289434 -7.65937,5.368104 -4.285599,-2.048208 -4.678286,-2.850518 -9.950633,0.196394 L 41.8974,20.424981 Z"
+       id="path1328"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:transform-center-x="-7.879124"
+       inkscape:transform-center-y="-0.79347135"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\Enemies\Bats\EnemyBatWing.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g2707"
+       inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\Enemies\Bats\EnemyBatTorso.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#442178;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path846"
+         cx="28.514963"
+         cy="24.441397"
+         rx="5.5772476"
+         ry="5.4383759"
+         inkscape:export-filename="D:\Unity3D\ARPG\Game\BlandMan\Assets\Art\Sprites\BlandMan\Head.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#aa0000;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 24.091004,27.23331 c 3.535093,-1.702082 4.582528,1.898476 4.582528,1.898476 -2.616217,-0.380657 -4.165444,-1.203657 -4.582528,-1.898476 z"
+         id="path2252"
+         sodipodi:nodetypes="ccc" />
+    </g>
+  </g>
+</svg>
