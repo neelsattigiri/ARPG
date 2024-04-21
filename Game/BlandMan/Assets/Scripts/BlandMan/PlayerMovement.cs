@@ -536,7 +536,7 @@ public class PlayerMovement : MonoBehaviour
             }
             
             // Initiate forced movement with directions calculated above with time 0.0625 seconds
-            ForcedMovement(moveX * knockbackmultiplier, moveY * knockbackmultiplier, 0.0625f);
+            ForcedMovement(moveX * knockbackmultiplier, moveY , 0.0625f);
 
             // Knockback also causes damage to the player based on dmg property of collider
             this.gameObject.GetComponent<PlayerStats>().Damage(touchDmg);
